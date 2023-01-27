@@ -1,2 +1,1 @@
-# goodmath.github.io
-math good
+test
